@@ -1,7 +1,7 @@
 ![Header](header-image.png)
 
 # 💫 About Me:
-My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a smaller company for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role.  
+My name is Ritesh, 24, I have worked in a smaller company for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role.  
 
 <br>
 
@@ -24,16 +24,77 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a smalle
 
 <br>
 
+# 💼 Job Experience:
+
+<h2>Associate Cloud Engineer</h2>
+    <p><strong>Tudip Technologies, Pune, India</strong></p>
+    <p><em>Jun 2020 - Sep 2021</em></p>
+    <ul>
+        <li>Administered and tested different cloud platforms</li>
+        <li>Identified bugs and created reports to highlight the status of all modules</li>
+        <li>Dealt with the maintenance of environments</li>
+    </ul>
+    <br>
+    <h2>Projects:</h2>
+    <ol>
+        <li>
+            <h3>Google Cloud Certification Administrator</h3>
+            <ul>
+                <li>Managed and updated certification data as database admin</li>
+                <li>Worked on BigQuery, Google App Script, PLX Script, and troubleshooting Plx Query issues</li>
+                <li>Created dashboards using Google Data Studio</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Qwiklabs</h3>
+            <ul>
+                <li>Worked as Lab tester/publisher on Google Cloud Learning Platform - Qwiklabs</li>
+                <li>Monitored and maintained GCP service</li>
+                <li>Troubleshot outages to avoid minimal impact on active users</li>
+                <li>Debugged and fixed issues</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Google LX</h3>
+            <ul>
+                <li>Worked as System Admin on Google learning platform – Intellum</li>
+                <li>Published and tested courses</li>
+                <li>Enrolled Googlers and Nooglers to the courses</li>
+                <li>Wrote SOPs</li>
+                <li>Handled quarterly learning plans for Googlers</li>
+            </ul>
+        </li>
+    </ol>
+
+---
+
+
+<br>
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KadvaSaach&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KadvaSaach&theme=radical&hide_border=false)<br/> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+
 
 <br/>  
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit&theme=radical&)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+
+
+![](https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit&theme=radical&) -->
+
+ <table style="flex border-collapse: collapse">
+        <tr>
+            <td style="padding: 8px;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" />
+            </td>
+            <td style="padding: 8px;">
+                <img src="https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit&theme=radical&" alt="GitHub Trophies" />
+            </td>
+        </tr>
+    </table>
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
