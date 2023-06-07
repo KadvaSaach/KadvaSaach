@@ -1,7 +1,7 @@
 ![Header](header-image.png)
 
 # 💫 About Me:
-My name is Ritesh, 24, I have worked in a smaller company for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role.  
+My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a smaller company for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role.  
 
 <br>
 
