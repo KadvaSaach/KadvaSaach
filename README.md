@@ -4,10 +4,11 @@ My name is Ritesh, 24, I have worked in a smaller company for a year. In my shor
 <br>
 
 # 🌐 Socials:
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-riteshkamdi.vercel.app/) 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kamdi) 
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KadvaSaach) 
-[![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=whit)](https://www.coursera.org/user/faeaf3685316cd9a623873d3a586d6f1) 
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-riteshkamdi.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kamdi) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkamdi@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KadvaSaach) 
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=whit)](https://www.coursera.org/user/faeaf3685316cd9a623873d3a586d6f1) 
 
 
 <br>
@@ -15,7 +16,7 @@ My name is Ritesh, 24, I have worked in a smaller company for a year. In my shor
 # 💻 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,react,nextjs,tailwind,ts,git,python,tensorflow,django,pytorch,sqlite,mysql,mongodb,r,gcp,unity,vscode,eclipse,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,html,css,react,nextjs,tailwind,ts,git,python,tensorflow,django,pytorch,sqlite,mysql,mongodb,r,gcp,unity,vscode,eclipse,linux,postman" />
   </a>
 </p>
 
