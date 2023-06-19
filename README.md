@@ -92,7 +92,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" />
             </td>
             <td style="padding: 8px;">
-                <img src="https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit&theme=radical&" alt="GitHub Trophies" />
+                <img src="https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit,Repositories&theme=radical&" alt="GitHub Trophies" />
             </td>
         </tr>
     </table>
