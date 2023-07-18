@@ -81,7 +81,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
 
 ## 🏆 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br> --> 
 
 
 ![](https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit,Repositories&theme=radical&) 
