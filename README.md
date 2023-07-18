@@ -81,12 +81,13 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
 
 ## 🏆 GitHub Stats
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
-![](https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit&theme=radical&) -->
+![](https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit,Repositories&theme=radical&) 
 
- <table style="flex border-collapse: collapse">
+
+ <!--- table style="flex border-collapse: collapse">
         <tr>
             <td style="padding: 8px;">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadvaSaach&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" />
@@ -95,7 +96,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
                 <img src="https://github-profile-trophy.vercel.app/?username=KadvaSaach&title=MultiLanguage,Commit,Repositories&theme=radical&" alt="GitHub Trophies" />
             </td>
         </tr>
-    </table>
+    </table ---- >
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
