@@ -29,7 +29,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
 
 <h2>Associate Cloud Engineer</h2>
     <p><strong>Tudip Technologies, Pune, India</strong></p>
-    <p><em>Jun 2020 - Sep 2021</em></p>
+    <p><em>Jun 2020 - Feb 2022</em></p>
     <ul>
         <li>Administered and tested different cloud platforms</li>
         <li>Identified bugs and created reports to highlight the status of all modules</li>
