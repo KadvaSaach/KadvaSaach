@@ -8,7 +8,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
 
 # 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-riteshkamdi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ritesh-14.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kamdi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkamadi@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KadvaSaach)
