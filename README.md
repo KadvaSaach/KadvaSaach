@@ -2,13 +2,15 @@
 
 # 💫 About Me:
 
-My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role.
+<!-- My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. In my short time there, I have worked on many projects and assisted with managing one project for one of the firm's long-time clients. But due to my spinal injury, I lost my job. Now I'm looking for a job. I would appreciate it if given a chance to prove my value addition for this job role. -->
+
+My name is Ritesh, and I hold a degree in Computer Engineering from PCCOE Pune. I have 1.5 years of experience as an Associate Project Engineer with a smaller firm, where I contributed to a range of projects and played a key role in managing a project for a long-standing client. Unfortunately, due to a spinal injury, I had to leave my position. I have fully recovered and am now actively seeking new opportunities to leverage my skills and experience.
 
 <br>
 
 # 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-riteshkamdi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-ritesh-14.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kamdi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkamadi@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KadvaSaach)
@@ -29,7 +31,7 @@ My name is Ritesh, 24, I have worked as an Associate Cloud Engineer for a year. 
 
 <h2>Associate Cloud Engineer</h2>
     <p><strong>Tudip Technologies, Pune, India</strong></p>
-    <p><em>Jun 2020 - Feb 2022</em></p>
+    <!-- <p><em>Jun 2020 - Feb 2022</em></p> -->
     <ul>
         <li>Administered and tested different cloud platforms</li>
         <li>Identified bugs and created reports to highlight the status of all modules</li>
